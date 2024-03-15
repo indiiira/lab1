@@ -1,0 +1,11 @@
+C:\Users\Индира\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Индира\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Индира\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1.nForm.resources
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1Ypr1,2,3.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1Ypr1,2,3.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Индира\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
